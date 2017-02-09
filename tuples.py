@@ -1,15 +1,10 @@
 """
-	tuples are immutable are enclosed in parenthesis
+	Tuples are immutable are enclosed in parenthesis
 	and when value is only one it must have a trailing comma
-""" 
-# rose = tuple('leather')
-# print rose
-# print rose[4]
 
-'''
 	Write a function called most_frequent that takes a string and prints the
 	letters in decreasing order of frequency.
-'''
+"""
 
 
 def most_frequent(strings):
